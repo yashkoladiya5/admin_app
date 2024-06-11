@@ -1,0 +1,15 @@
+<resources>
+<string name="admin_app">Admin App</string>
+<string name="activity_sample_device_admin">Device Admin Sample</string>
+<string name="sample_device_admin">Sample Device Admin</string>
+<string name="sample_device_admin_description">This is a sample Device Admin receiver for managing administrative tasks.</string>
+    <string name="admin_receiver_status">Your admin receiver status</string>
+    <string name="admin_receiver_status_enabled">Admin receiver enabled</string>
+    <string name="admin_receiver_status_disable_warning">Admin receiver disable warning</string>
+    <string name="admin_receiver_status_disabled">Admin receiver disabled</string>
+    <string name="admin_receiver_status_pw_changed">Admin receiver password changed</string>
+
+</resources>
+
+
+
